@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>simple-lightbox</artifactId>
-    <version>2.1.0</version>
+    <version>2.1.1-SNAPSHOT</version>
     <name>simple-lightbox</name>
     <description>WebJar for simple-lightbox</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/simple-lightbox</url>
         <connection>scm:git:https://github.com/webjars/simple-lightbox.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/simple-lightbox.git</developerConnection>
-        <tag>simple-lightbox-2.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
